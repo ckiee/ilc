@@ -143,7 +143,7 @@ int main(int argc, char **argv) {
                 std::cout << std::endl;
                 
                 return EXIT_SUCCESS;
-            };
+            }
             
             // TODO: Throwing linker reference error.
             // Trim whitespace off input string.
